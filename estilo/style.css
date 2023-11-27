@@ -46,10 +46,7 @@ a.externo::after {
     content:'\00A0\1F517'
 }
 
-p{
-    margin: 1px 0px;
-    text-align: justify;
-}
+
 
 header {
     background-image: linear-gradient(to bottom, var(--cor3), var(--cor5));
@@ -76,7 +73,7 @@ header > p {
     color: white;
     text-align: center;
     font-size: 1.2em;
-    max-width: 500px;
+    max-width: 600px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
